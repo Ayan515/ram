@@ -1,0 +1,1 @@
+As Git is a distributed version control system, it could be used as a server out of the box. It's shipped with a built-in command git daemon which starts a simple TCP server running on the GIT protocol.
